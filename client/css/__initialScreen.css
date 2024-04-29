@@ -1,0 +1,20 @@
+.init {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  padding: 1rem;
+  border: 2px solid;
+  border-radius: 16px;
+}
+
+.init__form {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.init__form-item {
+  padding: 16px 0;
+}
